@@ -3,6 +3,7 @@
   "displayName": "BorisTheme",
   "description": "In memory of Boris, a disco king...",
   "version": "0.0.1",
+  "publisher": "ronfl3x",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -22,5 +23,4 @@
     "type": "git",
     "url": "https://github.com/ronfl3x/Boris-Theme"
   }
-  
 }
