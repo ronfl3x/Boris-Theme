@@ -26,7 +26,7 @@
 		"scope": "variable.other.generic-type.haskell",
 		"settings": {
 		  "foreground": "#F97583",
-		  "fontStyle": "bold strikethrough"
+		  "fontStyle": "bold"
 
 		}
 	  },
@@ -203,8 +203,6 @@
 		"scope": "variable.other.constant",
 		"settings": {
 		  "foreground": "#79B8FF",
-		  "fontStyle": "bold strikethrough"
-
 		}
 	  },
 	  {
@@ -341,7 +339,7 @@
 		"scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
 		"settings": {
 		  "foreground": "#E1E4E8",
-		  "fontStyle": "bold strikethrough"
+		  "fontStyle": "bold"
 
 		}
 	  },
@@ -559,7 +557,7 @@
 		"scope": "variable.c",
 		"settings": {
 		  "foreground": "#d4d4d4",
-		  "fontStyle": "bold strikethrough"
+		  "fontStyle": "bold"
 		}
 	  },
 	  {
@@ -574,7 +572,7 @@
 		"scope": "token.variable.parameter.java",
 		"settings": {
 		  "foreground": "#d4d4d4",
-		  "fontStyle": "bold strikethrough"
+		  "fontStyle": "bold"
 
 		}
 	  },
@@ -641,8 +639,6 @@
 		],
 		"settings": {
 		  "foreground": "#9c83ff",
-		  "fontStyle": "bold strikethrough"
-
 		}
 	  },
 	  {

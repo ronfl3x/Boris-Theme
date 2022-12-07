@@ -21,3 +21,7 @@
 ## [0.1.5] - 07/12/2022
 
 - Update to 0.1.5 to modify colors and fontstyles for variables.
+
+## [0.1.6] - 07/12/2022
+
+- Update to 0.1.6 to modify colors and fontstyles for variables.
