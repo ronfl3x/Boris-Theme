@@ -339,8 +339,6 @@
 		"scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
 		"settings": {
 		  "foreground": "#E1E4E8",
-		  "fontStyle": "bold"
-
 		}
 	  },
 	  {
@@ -549,7 +547,7 @@
 		"name": "Variables",
 		"scope": "variable",
 		"settings": {
-		  "foreground": "#ffab70"
+		  "foreground": "#d4d4d4"
 		}
 	  },
 	  {
