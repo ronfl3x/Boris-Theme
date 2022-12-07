@@ -17,3 +17,7 @@
 ## [0.1.4] - 07/12/2022
 
 - Update to 0.1.4 to modify colors for js/ts.
+
+## [0.1.5] - 07/12/2022
+
+- Update to 0.1.5 to modify colors and fontstyles for variables.

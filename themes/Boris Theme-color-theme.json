@@ -4,7 +4,7 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 	  "enumMember": {
-		"foreground": "#ff586e"
+		"foreground": "#F97583"
 	  },
 	  "variable.constant": {
 		"foreground": "#5a9aee"
@@ -25,7 +25,9 @@
 		"name": "haskell variable generic-type",
 		"scope": "variable.other.generic-type.haskell",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583",
+		  "fontStyle": "bold strikethrough"
+
 		}
 	  },
 	  {
@@ -88,7 +90,7 @@
 		"name": "support.constant.edge",
 		"scope": "support.constant.edge",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -200,7 +202,9 @@
 		"name": "js/ts variable.other.constant",
 		"scope": "variable.other.constant",
 		"settings": {
-		  "foreground": "#79B8FF"
+		  "foreground": "#79B8FF",
+		  "fontStyle": "bold strikethrough"
+
 		}
 	  },
 	  {
@@ -245,7 +249,7 @@
 		"name": "java instanceof",
 		"scope": "keyword.operator.instanceof.java",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -259,21 +263,21 @@
 		"name": "operator logical",
 		"scope": "keyword.operator.logical",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "operator bitwise",
 		"scope": "keyword.operator.bitwise",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "operator channel",
 		"scope": "keyword.operator.channel",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -287,7 +291,7 @@
 		"name": "CSS/SCSS/LESS Operators",
 		"scope": "keyword.operator.css,keyword.operator.scss,keyword.operator.less",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -315,7 +319,7 @@
 		"name": "css property-name",
 		"scope": "support.type.vendored.property-name.css",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -336,7 +340,9 @@
 		"name": "js variable readwrite",
 		"scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
 		"settings": {
-		  "foreground": "#ffab70"
+		  "foreground": "#E1E4E8",
+		  "fontStyle": "bold strikethrough"
+
 		}
 	  },
 	  {
@@ -356,7 +362,7 @@
 		  "keyword.operator.expression.keyof"
 		],
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -391,21 +397,21 @@
 		"name": "keyword.operator.sigil.rust",
 		"scope": "keyword.operator.sigil.rust",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "operator",
 		"scope": "keyword.operator.delete",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "js dom",
 		"scope": "support.type.object.dom",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -419,14 +425,14 @@
 		"name": "keyword.operator",
 		"scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "C operator assignment",
 		"scope": "keyword.operator.assignment.c,keyword.operator.comparison.c,keyword.operator.c,keyword.operator.increment.c,keyword.operator.decrement.c,keyword.operator.bitwise.shift.c,keyword.operator.assignment.cpp,keyword.operator.comparison.cpp,keyword.operator.cpp,keyword.operator.increment.cpp,keyword.operator.decrement.cpp,keyword.operator.bitwise.shift.cpp",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -440,21 +446,21 @@
 		"name": "Other punctuation .c",
 		"scope": "punctuation.separator.c,punctuation.separator.cpp",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "C type posix-reserved",
 		"scope": "support.type.posix-reserved.c,support.type.posix-reserved.cpp",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "keyword.operator.sizeof.c",
 		"scope": "keyword.operator.sizeof.c,keyword.operator.sizeof.cpp",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -468,14 +474,14 @@
 		"name": "python type",
 		"scope": "support.type.python",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "python logical",
 		"scope": "keyword.operator.logical.python",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -517,21 +523,21 @@
 		"name": "Compound Assignment Operators",
 		"scope": "keyword.operator.assignment.compound",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "Compound Assignment Operators js/ts",
 		"scope": "keyword.operator.assignment.compound.js,keyword.operator.assignment.compound.ts",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "Keywords",
 		"scope": "keyword",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -552,7 +558,8 @@
 		"name": "Variables",
 		"scope": "variable.c",
 		"settings": {
-		  "foreground": "#d4d4d4"
+		  "foreground": "#d4d4d4",
+		  "fontStyle": "bold strikethrough"
 		}
 	  },
 	  {
@@ -566,7 +573,9 @@
 		"name": "Java Variables",
 		"scope": "token.variable.parameter.java",
 		"settings": {
-		  "foreground": "#d4d4d4"
+		  "foreground": "#d4d4d4",
+		  "fontStyle": "bold strikethrough"
+
 		}
 	  },
 	  {
@@ -580,7 +589,7 @@
 		"name": "Packages",
 		"scope": "token.package.keyword",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -631,7 +640,9 @@
 		  "variable.other.class.ts"
 		],
 		"settings": {
-		  "foreground": "#9c83ff"
+		  "foreground": "#9c83ff",
+		  "fontStyle": "bold strikethrough"
+
 		}
 	  },
 	  {
@@ -652,7 +663,7 @@
 		"name": "Keyword Control",
 		"scope": "keyword.control",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -673,21 +684,21 @@
 		"name": "Storage",
 		"scope": "storage",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "Storage JS TS",
 		"scope": "token.storage",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
 		"scope": "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -701,7 +712,7 @@
 		"name": "Support",
 		"scope": "support.function",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -750,7 +761,7 @@
 		"name": "Constant other symbol",
 		"scope": "constant.other.symbol",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -808,7 +819,7 @@
 		"name": "Selector",
 		"scope": "meta.selector",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -829,7 +840,7 @@
 		"name": "Units",
 		"scope": "keyword.other.unit",
 		"settings": {
-		  "foreground": "#ffab70"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -850,14 +861,14 @@
 		"name": "markup Italic",
 		"scope": "markup.italic, punctuation.definition.italic,todo.emphasis",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "emphasis md",
 		"scope": "emphasis md",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -947,7 +958,7 @@
 		"name": "[VSCODE-CUSTOM] Markdown Underline Link/Image",
 		"scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -961,14 +972,14 @@
 		"name": "Regular Expressions",
 		"scope": "string.regexp",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "Escape Characters",
 		"scope": "constant.character.escape",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -982,7 +993,7 @@
 		"name": "Embedded",
 		"scope": "punctuation.section.embedded.begin,punctuation.section.embedded.end",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1045,7 +1056,7 @@
 		"name": "Source Json Meta Structure Dictionary Json > Constant Language Json,source Json Meta Structure Array Json > Constant Language Json",
 		"scope": "source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1066,14 +1077,14 @@
 		"name": "laravel blade tag",
 		"scope": "text.html.laravel-blade source.php.embedded.line.html entity.name.tag.laravel-blade",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "laravel blade @",
 		"scope": "text.html.laravel-blade source.php.embedded.line.html support.constant.laravel-blade",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1087,14 +1098,14 @@
 		"name": "error suppression",
 		"scope": "keyword.operator.error-control.php",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "php instanceof",
 		"scope": "keyword.operator.type.php",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1164,28 +1175,28 @@
 		"name": "php logical/bitwise operator",
 		"scope": "keyword.operator.logical.php,keyword.operator.bitwise.php,keyword.operator.arithmetic.php",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "php regexp operator",
 		"scope": "keyword.operator.regexp.php",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "php comparison",
 		"scope": "keyword.operator.comparison.php",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "php heredoc/nowdoc",
 		"scope": "keyword.operator.heredoc.php,keyword.operator.nowdoc.php",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1199,7 +1210,7 @@
 		"name": "python function support",
 		"scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1227,14 +1238,14 @@
 		"name": "constant.language.symbol.ruby",
 		"scope": "constant.language.symbol.ruby",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
 		"name": "rgb-value",
 		"scope": "rgb-value",
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1307,7 +1318,7 @@
 	  {
 		"scope": "token.debug-token",
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1318,7 +1329,7 @@
 		  "punctuation.section.embedded"
 		],
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1336,7 +1347,7 @@
 		  "keyword.operator.module"
 		],
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1417,7 +1428,7 @@
 		  "keyword.operator.assignment"
 		],
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1436,7 +1447,7 @@
 		  "keyword.operator.address.go"
 		],
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1454,7 +1465,7 @@
 		  "support.type.prelude.elm"
 		],
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1472,7 +1483,7 @@
 		  "punctuation.quasi.element"
 		],
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1491,7 +1502,7 @@
 		  "entity.other.attribute-name.pseudo-class"
 		],
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1518,7 +1529,7 @@
 		  "constant.keyword.clojure"
 		],
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1614,7 +1625,7 @@
 		  "support.type.object.hlsl"
 		],
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1652,7 +1663,7 @@
 		  "entity.name.class.xi"
 		],
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1670,7 +1681,7 @@
 		  "constant.regexp.xi"
 		],
 		"settings": {
-		  "foreground": "#ff586ee1"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1679,7 +1690,7 @@
 		  "keyword.control.xi"
 		],
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
@@ -1812,7 +1823,7 @@
 		  "constant.language.symbol.elixir"
 		],
 		"settings": {
-		  "foreground": "#ff586e"
+		  "foreground": "#F97583"
 		}
 	  },
 	  {
