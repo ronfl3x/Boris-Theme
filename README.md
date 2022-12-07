@@ -1,6 +1,6 @@
 # Boris Theme for Visual Studio Code
 
-Based on the GitHub Dark theme by [GitHub]([github.com](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+Based on the GitHub Dark theme by [GitHub]([github.com](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme))
 
 ## Installation
 
