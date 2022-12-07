@@ -9,3 +9,7 @@
 ## [0.1.2] - 07/12/2022
 
 - Update to 0.1.2 to modify a couple of colors to make it more readable and to change some fontstyles.
+
+## [0.1.3] - 07/12/2022
+
+- Update to 0.1.3 to modify logs.
