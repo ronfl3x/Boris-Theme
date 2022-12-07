@@ -2,3 +2,4 @@
 
 - Initial release
 - Update to 0.1.1 to fix a bug in the README.md and modify a couple of colors to make it more readable.
+- Update to 0.1.2 to modify a couple of colors to make it more readable and to change some fontstyles.
