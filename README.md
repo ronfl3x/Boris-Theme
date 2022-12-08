@@ -2,6 +2,8 @@
 
 Based on the GitHub Dark theme by [GitHub](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
+(The main difference being that struct properties are in a different color than the struct...)
+
 ## Installation
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
