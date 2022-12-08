@@ -547,7 +547,7 @@
 		"name": "Variables",
 		"scope": "variable",
 		"settings": {
-		  "foreground": "#d4d4d4"
+		  "foreground": "#ffab70"
 		}
 	  },
 	  {
@@ -555,7 +555,6 @@
 		"scope": "variable.c",
 		"settings": {
 		  "foreground": "#d4d4d4",
-		  "fontStyle": "bold"
 		}
 	  },
 	  {
