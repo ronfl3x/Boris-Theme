@@ -550,6 +550,21 @@
 		  "foreground": "#ffab70"
 		}
 	  },
+
+	  {
+		"name": "c variable",
+		"scope": "variable.other.local.c",
+		"settings": {
+		  "foreground": "#e1e4e8"
+		}
+	  },
+	  {
+		"name": "c property",
+		"scope": "variable.other.property.c",
+		"settings": {
+		  "foreground": "#4281a4"
+		}
+	  },
 	  {
 		"name": "Variables",
 		"scope": "variable.c",
@@ -564,6 +579,35 @@
 		  "foreground": "#9c83ff"
 		}
 	  },
+	  {
+		"name": "javascriptreact",
+		"scope": "entity.other.attribute-name.js.jsx,meta.tag.attributes.js.jsx,meta.tag.js.jsx,meta.tag.js.jsx,meta.block.js.jsx,meta.function.js.jsx,source.js.jsx",
+		"settings": {
+			"foreground": "#B392F0",
+		}
+	},
+	{
+		"name": "javascriptreact",
+		"scope": "entity.name.tag.js.jsx",
+		"settings": {
+			"foreground": "#85E89D",
+		}
+	},
+	{
+		"name": "javascriptreact",
+		"scope": "support.class.component.js.jsx",
+		"settings": {
+			"foreground": "#79B8FF",
+		}
+	},
+	{
+		"name": "javascriptreact",
+		"scope": "meta.jsx.children.js.jsx,",
+		"settings": {
+			"foreground": "#E1E4E8",
+		}
+	},
+
 	  {
 		"name": "Java Variables",
 		"scope": "token.variable.parameter.java",
@@ -786,6 +830,28 @@
 		}
 	  },
 	  {
+		"name": "Tags css",
+		"scope": "entity.name.tag.css",
+		"settings": {
+		  "foreground": "#D7BA7D"
+		}
+	  },
+	  {
+		"name": "properties numvalue css",
+		"scope": "constant.numeric.css",
+		"settings": {
+		  "foreground": "#B5CEA8"
+		}
+	  },
+	  {
+		"name": "properties numvalue css",
+		"scope": "support.constant.property-value.css",
+		"settings": {
+		  "foreground": "#D4D4D4"
+		}
+	  },
+
+	  {
 		"name": "Attributes",
 		"scope": "entity.other.attribute-name",
 		"settings": {
@@ -797,7 +863,7 @@
 		"scope": "entity.other.attribute-name.id",
 		"settings": {
 		  "fontStyle": "",
-		  "foreground": "#a592f0"
+		  "foreground": "#D7BA7D"
 		}
 	  },
 	  {
@@ -805,7 +871,7 @@
 		"scope": "entity.other.attribute-name.class.css",
 		"settings": {
 		  "fontStyle": "",
-		  "foreground": "#5a9aee"
+		  "foreground": "#D7BA7D"
 		}
 	  },
 	  {
@@ -833,7 +899,7 @@
 		"name": "Units",
 		"scope": "keyword.other.unit",
 		"settings": {
-		  "foreground": "#F97583"
+		  "foreground": "#B5CEA8"
 		}
 	  },
 	  {
@@ -1665,7 +1731,7 @@
 		  "constant.character.character-class.regexp.xi"
 		],
 		"settings": {
-		  "foreground": "#ffab70"
+		  "foreground": "#FFAB70"
 		}
 	  },
 	  {
@@ -1793,7 +1859,7 @@
 		"name": "Comments",
 		"scope": "comment, punctuation.definition.comment",
 		"settings": {
-		  "fontStyle": "italic",
+		  "fontStyle": "",
 		  "foreground": "#7f848e"
 		}
 	  },
@@ -1830,7 +1896,7 @@
 		"name": "comment",
 		"scope": "comment.line.double-slash,comment.block.documentation",
 		"settings": {
-		  "fontStyle": "italic"
+		  "fontStyle": ""
 		}
 	  },
 	  {
@@ -2037,7 +2103,7 @@
 	  "gitDecoration.conflictingResourceForeground": "#6c6cc4",
 	  "gitDecoration.deletedResourceForeground": "#c74e39",
 	  "gitDecoration.ignoredResourceForeground": "#8c8c8c",
-	  "gitDecoration.modifiedResourceForeground": "#e2c08d",
+	  "gitDecoration.modifiedResourceForeground": "#8dbee2",
 	  "gitDecoration.stageDeletedResourceForeground": "#c74e39",
 	  "gitDecoration.stageModifiedResourceForeground": "#e2c08d",
 	  "gitDecoration.submoduleResourceForeground": "#8db9e2",
