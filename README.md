@@ -2,7 +2,7 @@
 
 Based on the GitHub Dark theme by [GitHub](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
-(The main difference being that struct properties are in a different color than the struct...)
+(The main difference being that, in c, struct properties are in a different color than the struct...)
 
 ## Installation
 
