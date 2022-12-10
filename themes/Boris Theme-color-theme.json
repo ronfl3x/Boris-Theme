@@ -2077,7 +2077,7 @@
 	  "tab.activeBorderTop": "#d14a5c",
 	  "tab.inactiveBackground": "#1f2428",
 	  "tab.inactiveForeground": "#ffffff80",
-	  "scrollbarSlider.background": "#24292e",
+	  "scrollbarSlider.background": "#303438b2",
 	  "scrollbarSlider.hoverBackground": "#646464b3",
 	  "scrollbarSlider.activeBackground": "#bfbfbf66",
 	  "progressBar.background": "#d14a5c",
