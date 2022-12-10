@@ -17,3 +17,7 @@
 ## [0.2.0] - 08/12/2022
 
 - Stable release of the theme & rounded icon.
+
+## [0.2.1] - 10/12/2022
+
+- Modified scrollbar background color.
